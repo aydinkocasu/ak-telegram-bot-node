@@ -1,7 +1,7 @@
 # Telegram Bot Backend
 
 ## Live Version
- [Telegram Bot](https://t.me/@aydin_kocasu_bot)
+ [Telegram Bot](https://t.me/aydin_kocasu_bot)
 
 ## Description
 
